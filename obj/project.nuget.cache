@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qq43umrgkV28fvjCDjayWFr2aU3u1fgi4gt0GbH5KIlyUHGFhM80k+NT+fnqTrLtAdwHWxgTcKW91rVIvcXCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TheAshenWolf\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\townMobs\\townMobs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheAshenWolf\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

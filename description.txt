@@ -9,3 +9,10 @@ Adding and removing the mod is safe at all times, as it doesn't manipulate with 
 
 Here is a github, just in case anything goes wrong .-.
 https://github.com/TheAshenWolf/Terraria-TownMobs
+
+=== Changelog ===
+
+1.0.1 
+  - Added mod browser icon (I hope .-.)
+  - Added info about enabling/disabling the mod
+  - Added changelog! 

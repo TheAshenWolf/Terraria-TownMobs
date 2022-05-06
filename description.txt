@@ -5,5 +5,7 @@ There are some exceptions, but... look for that on the wiki.
 
 This mod simply convinces the game that there are no NPCs around the player, so it does not reduce the spawns.
 
+Adding and removing the mod is safe at all times, as it doesn't manipulate with any saves.
+
 Here is a github, just in case anything goes wrong .-.
 https://github.com/TheAshenWolf/Terraria-TownMobs

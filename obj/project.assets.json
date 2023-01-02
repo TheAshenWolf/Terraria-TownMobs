@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.5": {
+    "net6.0": {
       "tModLoader.CodeAssist/0.1.5": {
         "type": "package"
       }
@@ -26,7 +26,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.5": [
+    "net6.0": [
       "tModLoader.CodeAssist >= 0.1.*"
     ]
   },
@@ -37,11 +37,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TheAshenWolf\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\townMobs\\townMobs.csproj",
+      "projectUniqueName": "C:\\Users\\TheAshenWolf\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\townMobs\\townMobs.csproj",
       "projectName": "townMobs",
-      "projectPath": "C:\\Users\\TheAshenWolf\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\townMobs\\townMobs.csproj",
+      "projectPath": "C:\\Users\\TheAshenWolf\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\townMobs\\townMobs.csproj",
       "packagesPath": "C:\\Users\\TheAshenWolf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TheAshenWolf\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\townMobs\\obj\\",
+      "outputPath": "C:\\Users\\TheAshenWolf\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\townMobs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -51,15 +51,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net45"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net45": {
-          "targetAlias": "net45",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -70,15 +70,30 @@
       }
     },
     "frameworks": {
-      "net45": {
-        "targetAlias": "net45",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "tModLoader.CodeAssist": {
             "target": "Package",
             "version": "[0.1.*, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

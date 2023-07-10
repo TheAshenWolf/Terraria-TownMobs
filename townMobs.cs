@@ -20,15 +20,16 @@ namespace townMobs
     }
   }
   
+
   /// <summary>
   /// Only used for debugging purposes (this mod's changes are not really visible by default)
   /// </summary>
   public class TownMobsPlayer : ModPlayer
   {
     /// <inheritdoc />
-    public override void OnEnterWorld(Player player)
+    public override void OnEnterWorld()
     {
-      base.OnEnterWorld(player);
+      base.OnEnterWorld();
       Main.NewText("Town mobs loaded!", 150, 250, 150);
     }
   }

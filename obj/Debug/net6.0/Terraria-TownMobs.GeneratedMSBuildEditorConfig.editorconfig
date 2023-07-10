@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = townMobs
-build_property.ProjectDir = C:\Users\jiri.sretr\Documents\My Games\Terraria\tModLoader\ModSources\townMobs\
+build_property.RootNamespace = Terraria-TownMobs
+build_property.ProjectDir = C:\Users\jiri.sretr\Documents\My Games\Terraria\tModLoader\ModSources\Terraria-TownMobs\

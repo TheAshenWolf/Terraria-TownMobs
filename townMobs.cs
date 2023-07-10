@@ -29,7 +29,7 @@ namespace townMobs
     public override void OnEnterWorld(Player player)
     {
       base.OnEnterWorld(player);
-      Main.NewText("Okay... Loaded", 150, 250, 150);
+      Main.NewText("Town mobs loaded!", 150, 250, 150);
     }
   }
 }

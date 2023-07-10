@@ -11,6 +11,8 @@ Here is a github, just in case anything goes wrong .-.
 https://github.com/TheAshenWolf/Terraria-TownMobs
 
 === Changelog ===
+2.0.0
+  - Ported to Terraria 1.4.3
 
 1.0.1 
   - Added mod browser icon (I hope .-.)

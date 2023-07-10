@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\townMobs\\townMobs.csproj": {}
+    "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Terraria-TownMobs\\Terraria-TownMobs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\townMobs\\townMobs.csproj": {
+    "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Terraria-TownMobs\\Terraria-TownMobs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\townMobs\\townMobs.csproj",
+        "projectUniqueName": "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Terraria-TownMobs\\Terraria-TownMobs.csproj",
         "projectName": "Terraria-TownMobs",
-        "projectPath": "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\townMobs\\townMobs.csproj",
+        "projectPath": "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Terraria-TownMobs\\Terraria-TownMobs.csproj",
         "packagesPath": "C:\\Users\\jiri.sretr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\townMobs\\obj\\",
+        "outputPath": "C:\\Users\\jiri.sretr\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Terraria-TownMobs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\jiri.sretr\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

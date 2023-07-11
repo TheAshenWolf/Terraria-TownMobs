@@ -8,3 +8,5 @@ If you have more than three NPCs, Terraria by default disables (really reduces i
 There are some exceptions, but... look for that on the wiki.
 
 This mod simply convinces the game that there are no NPCs around the player, so it does not reduce the spawns.
+
+Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3002141467

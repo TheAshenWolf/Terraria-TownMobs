@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>townMobs</name>
+    </assembly>
+    <members>
+        <member name="T:townMobs.TownMobs">
+            <summary>
+            Main class of the mod
+            </summary>
+        </member>
+        <member name="M:townMobs.TownMobs.PreUpdateEntities">
+            <inheritdoc />
+        </member>
+        <member name="T:townMobs.TownMobsPlayer">
+            <summary>
+            Only used for debugging purposes (this mod's changes are not really visible by default)
+            </summary>
+        </member>
+        <member name="M:townMobs.TownMobsPlayer.OnEnterWorld(Terraria.Player)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
